@@ -8657,3 +8657,10 @@
 	padding-top: 0px;
 }
 
+.no-border-top {
+	border-top: none;
+}
+
+.add-border {
+	border: 1px solid #e1e1e1;
+}
